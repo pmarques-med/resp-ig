@@ -6,8 +6,7 @@
 
 ### Scope
 
-This publication contains the full set of specifications for the Inspirers Ecosystem.
-
+Esta publicação contém o conjunto completo de especificações para o Ecossistema Inspirers.
 
 ### Introduction
 
